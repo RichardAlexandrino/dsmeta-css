@@ -138,6 +138,11 @@ header {
     width: 19px;
 }
 
+.dsmeta-logo-container-logo img {
+    width: 22px;
+    margin-top: px;
+}
+
 .show576 {
     display: none;
 }
